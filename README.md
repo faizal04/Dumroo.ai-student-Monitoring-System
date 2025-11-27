@@ -1,7 +1,5 @@
-/*
-=========================================================
-DUMROO AI STUDENT MONITORING SYSTEM – README (IN PGSQL)
-=========================================================
+
+DUMROO AI STUDENT MONITORING SYSTEM
 
 This project is an AI-powered student monitoring dashboard.
 It uses Gemini, LlamaIndex, and the Pandas Query Engine to
@@ -87,5 +85,4 @@ No database.
 All data is from CSV.
 
 
--- You can add SQL below if needed.
 
