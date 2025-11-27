@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "Teacher",
+      "full_name": "Maryam",
+      "scope": {
+        "type": "class",
+        "value": "10"
+      }
+    },
+
+    {
+      "username": "superAdmin",
+      "password": "superadmin123",
+      "role": "principal",
+      "full_name": "Sara",
+      "scope": {
+        "type": "all_classes",
+        "value": "all"
+      }
+    }
+  ]
+}
